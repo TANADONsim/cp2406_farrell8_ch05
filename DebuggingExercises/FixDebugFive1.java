@@ -1,10 +1,10 @@
-// DebugFive1
+// FixDebugFive1
 // Adds your lunch bill
 // Burger and hot dog are $2.59
 // Grilled cheese and fish are $1.99
 // Fries are 89 cents
 import javax.swing.*;
-public class DebugFive1
+public class FixDebugFive1
 {
    public static void main(String args[]) throws Exception
    {
